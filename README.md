@@ -58,4 +58,4 @@ Tout projet Qt utilisera très certainement ce modèle de conception, car c'est 
 
 ## Captures d'écrans
 ![interface-1](rec/titleScreen.png)
-![interface-2_4*4](rec/TictactoeGame.png)
+![interface-2_4*4](rec/tictactoeGame.png)
